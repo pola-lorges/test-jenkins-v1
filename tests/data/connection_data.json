@@ -1,0 +1,15 @@
+{
+    "email_win":"anthonypola100@gmail.com",
+    "mot_de_passe_win":"Bgp221701",
+    "email_fail":"anthonypola100gmail.com",
+    "mot_de_passe_fail":"Bgp1701z",
+    "email_new":"freddy7@gmail.com",
+    "mot_de_passe_new":"Bgp270780",
+    "page_login":"https://ztrain-web.vercel.app/auth/login",
+    "page_home":"https://ztrain-web.vercel.app/home",
+    "page_register":"https://ztrain-web.vercel.app/auth/register",
+    "deconnect":"6267bb40774b917c18ef6a5d",
+    "format_invalid":"Le format de l'email est invalid",
+    "email_mdp_incorrect":"Email ou mot de passe incorrect",
+    "user_exist": "Cette utilisateur existe déjà"
+}

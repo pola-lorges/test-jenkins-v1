@@ -1,0 +1,12 @@
+{
+    "invalid_product":"pain",
+    "valid_product":"Enceinte Bluetooth portable robuste",
+    "valid_expect":"T-shirt en coton biologique",
+    "valid_verification_check": "T-shirt en coton biologique8.99 €",
+    "option": "6267bb40774b917c18ef6a5d",
+    "invalid_expect":"Aucun produit trouvé",
+    "search_product":"I-phone PRO 256 NOIR",
+    "quantite":"1",
+    "success_add":"Votre panier à été mis à jour",
+    "product_not_found":"Aucun produit trouvé"
+}
