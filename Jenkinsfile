@@ -16,7 +16,8 @@ pipeline {
     } */
     stage('test') {
       steps {
-        bat 'npx playwright test chain_test'
+        // bat 'npx playwright test chain_test'
+        bat 'npx playwright test --grep "@parcourss" --workers 1'
       }
 /*       post {
         success {
